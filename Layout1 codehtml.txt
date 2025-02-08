@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layou 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h2>Basic Layout Design</h2>
+    </header>
+
+    <nav class="navbar">
+        <ul>
+            <li><a href="Layout1.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <sidebar>
+            <h2>This is left sidebar</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque odit reiciendis nobis accusantium corrupti debitis quas labore iusto expedita, non mollitia voluptatum, natus temporibus ea saepe animi iste omnis iure?</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque odit reiciendis nobis accusantium corrupti debitis quas labore iusto expedita, non mollitia voluptatum, natus temporibus ea saepe animi iste omnis iure?</p>
+        </sidebar>
+
+        <sidebar>
+            <h2>This is right sidebar</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque odit reiciendis nobis accusantium corrupti debitis quas labore iusto expedita, non mollitia voluptatum, natus temporibus ea saepe animi iste omnis iure?</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque odit reiciendis nobis accusantium corrupti debitis quas labore iusto expedita, non mollitia voluptatum, natus temporibus ea saepe animi iste omnis iure?</p>
+        </sidebar>
+    </main>
+
+    <footer>
+        <hr>
+        author: Tasnia Saima<br>
+        <small><a href="mailto:tasniasaima6@gmail.com">tasniasaima6@gmail.com</a></small>
+    </footer>
+</body>
+</html>
